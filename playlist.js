@@ -1,6 +1,6 @@
 [
     {
-      "name": "Qua Ngày Mai",
+      "name": "Ngày Mai em Lấy Chồng",
       "url": "https://drive.google.com/uc?export=download&id=1jwl_BIfriefIFJHDndav8-sJF6AT5Twg"
     },
   {
